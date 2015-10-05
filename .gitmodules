@@ -1,0 +1,6 @@
+[submodule "readingTime"]
+	path = readingTime
+	url = https://github.com/jonstuebe/readingTime.git
+[submodule "swipe"]
+	path = swipe
+	url = https://github.com/jonstuebe/swipe.git
